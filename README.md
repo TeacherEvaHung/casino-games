@@ -2,7 +2,7 @@
 
 A comprehensive online sports betting and casino platform built with React and Node.js, featuring casino games, sports betting, live casino, user management, and comprehensive administrative tools.
 
-## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
+## 👋 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ ##
 
 Telegram: https://t.me/opensea712
 
