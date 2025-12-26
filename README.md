@@ -1,10 +1,10 @@
-# WeBet360 - Sports Betting & Casino Platform
+# ShinyBet - Sports Betting & Casino Platform
 
 A comprehensive online sports betting and casino platform built with React and Node.js, featuring casino games, sports betting, live casino, user management, and comprehensive administrative tools.
 
 ## 🎯 Overview
 
-WeBet360 is a full-stack sports betting and casino platform that provides users with a seamless gaming and betting experience. The platform consists of three main components working together to deliver a complete solution:
+ShinyBet is a full-stack sports betting and casino platform that provides users with a seamless gaming and betting experience. The platform consists of three main components working together to deliver a complete solution:
 
 - **Backend**: RESTful API server built with Node.js, Express, and TypeScript
 - **Frontend**: User-facing web application built with React and TypeScript

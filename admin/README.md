@@ -1,6 +1,6 @@
-# WeBet360 Admin Dashboard
+# ShinyBet Admin Dashboard
 
-Administrative dashboard for managing the WeBet360 sports betting platform, built with React and TypeScript.
+Administrative dashboard for managing the ShinyBet sports betting platform, built with React and TypeScript.
 
 ## 📋 Prerequisites
 

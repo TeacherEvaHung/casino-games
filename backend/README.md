@@ -1,6 +1,6 @@
-# WeBet360 Backend API
+# ShinyBet Backend API
 
-Backend API server for the WeBet360 sports betting platform, built with Node.js, Express, and TypeScript.
+Backend API server for the ShinyBet sports betting platform, built with Node.js, Express, and TypeScript.
 
 ## 📋 Prerequisites
 

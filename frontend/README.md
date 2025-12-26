@@ -1,6 +1,6 @@
-# WeBet360 Frontend
+# ShinyBet Frontend
 
-User-facing web application for the WeBet360 sports betting platform, built with React and TypeScript.
+User-facing web application for the ShinyBet sports betting platform, built with React and TypeScript.
 
 ## 📋 Prerequisites
 
